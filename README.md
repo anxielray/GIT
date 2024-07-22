@@ -1,0 +1,1 @@
+Ths is the Hello World example from the git project.
